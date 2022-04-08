@@ -1,7 +1,5 @@
 /* Name: Pietro Candiani.
  * Date: March 21, 2022.
- * Assignment: Homework 4
- * Section: 2
 */
 
 
